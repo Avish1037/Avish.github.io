@@ -1,0 +1,28 @@
+html{
+    background-color: burlywood;
+}
+p{
+    text-shadow: 5px 2px 2.5px rgb(82, 78, 78);
+    color: black;
+}
+/* h1{
+    color: white;
+} */
+.heading{
+    color: white;
+}
+#ol{
+    color: floralwhite;
+}
+#ul{
+    color: floralwhite;
+}
+#hyperlink{
+    color:chartreuse;
+}
+body{
+    margin: 10px 100px 10px 100px;
+    background-color: brown;
+    padding: 100px 100px 100px 100px;
+    border: 10px solid white;
+}
